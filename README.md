@@ -1,1 +1,1 @@
-The game of life, developed by John Conway
+The game of life developed by John Conway written in Python
